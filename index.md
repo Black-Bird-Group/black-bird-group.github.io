@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![black bird group logo: black swan and polar star](/logo1.png "Logo")
+![black bird group logo: black swan and polar star](logo1.png "Logo")
 
 # Black Bird Group
 
