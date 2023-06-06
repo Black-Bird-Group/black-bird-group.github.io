@@ -1,4 +1,5 @@
 ---
+title: Black Bird Group
 layout: default
 description: the temporary home page for Black Bird Group, an OSINT-community based on Finland.
 keywords: Black Bird Group, blackbird, scribblemaps, Emil Kastehelmi, John Helin, ukrainan sota, tilannekartta, osint, ukraina, venäjä
