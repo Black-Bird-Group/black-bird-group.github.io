@@ -14,12 +14,21 @@ This is the temporary home page for Black Bird Group, an OSINT-community based o
 
 We update [The War On Ukraine](https://www.scribblemaps.com/maps/view/The-War-in-Ukraine/091194) map. 🌻
 
+## Acknowledgements
+
+### Sociologist of the year 2022 by Social Science Professionals (Yhteiskunta-alan korkeakoulutetut ry)
+[Vuoden 2023 yhteiskuntatieteilijä on Ukrainan sodan tilannekarttaa ylläpitävä kollektiivi](https://yka.fi/ajankohtaista/vuoden-2023-yhteiskuntatieteilija/)
+
+### The Young European of the Year recognition in 2023  by JEF Finland
+
+[Vuoden nuori eurooppalainen -tunnustus 2023 Emil Kastehelmelle, John Helinille ja Eerik Materolle](https://eurooppanuoret.fi/uutiset/2023-uutiset/vuoden-nuori-eurooppalainen-2023/)
+
 ## In Media
 ### News
 - 05.06.2023 [MTV3 Uutiset: Kartta näyttää, missä Ukrainan väitetään tehneen suuren iskun – onko vastahyökkäys alkanut, Emil Kastehelmi?](https://www.mtvuutiset.fi/artikkeli/kartta-nayttaa-missa-ukrainan-vaitetaan-tehneen-suuren-iskun-onko-vastahyokkays-alkanut-emil-kastehelmi/8714762)
 - 26.5.2023 [Reservilainen.fi: ”Ihmiset suuttuvat, kun sanoo Ukrainan toteuttaneen hyökkäyksen Venäjän puolelle” – Emil Kastehelmi podcast-vieraana](https://reservilainen.fi/ihmiset-suuttuvat-kun-sanoo-ukrainan-toteuttaneen-hyokkayksen-venajan-puolelle-emil-kastehelmi-podcast-vieraana/)
-- 14.2.2023 [Menettikö Venäjä kokonaisen eliitti­sotilaiden prikaatin? ”Se on joutunut kovan lekan alle”](https://www.is.fi/ulkomaat/art-2000009391078.html)
-- 31.1.2023 [Satelliittikuvat paljastavat Putinin uudet suunnitelmat – ”Ei missään koko sodan aikana”](Satelliittikuvat paljastavat Putinin uudet suunnitelmat – ”Ei missään koko sodan aikana”)
+- 14.2.2023 [IS: Menettikö Venäjä kokonaisen eliitti­sotilaiden prikaatin? ”Se on joutunut kovan lekan alle”](https://www.is.fi/ulkomaat/art-2000009391078.html)
+- 31.1.2023 [IS: Satelliittikuvat paljastavat Putinin uudet suunnitelmat – ”Ei missään koko sodan aikana”]([Satelliittikuvat paljastavat Putinin uudet suunnitelmat – ”Ei missään koko sodan aikana”](https://www.is.fi/ulkomaat/art-2000009361111.html))
 - 27.3.2022 [HS: HS aloittaa some­kuvien aitouden varmistamisen aiempaa tarkemmin – Mitä tietoja kuvista ja videoista voidaan datan avulla selvittää?](https://www.hs.fi/ulkomaat/art-2000008706381.html)
 
 
