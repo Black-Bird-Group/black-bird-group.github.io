@@ -21,7 +21,7 @@ We update [The War On Ukraine](https://www.scribblemaps.com/maps/view/The-War-in
 
 ### Podcasts 
 - 2022 [Futucast: Sodan narratiivit](https://www.youtube.com/watch?v=rEsWe2D6W0o&themeRefresh=1)
-- 2022 [Mighty Finland](https://podcasts.apple.com/fi/podcast/osint-ja-ukrainan-sodan-alku-emil-kastehelmi-eerik-matero/id1507675257?i=1000581548029&l=fi)
+- 2022 [Mighty Finland: OSINT ja Ukrainan sodan alku](https://podcasts.apple.com/fi/podcast/osint-ja-ukrainan-sodan-alku-emil-kastehelmi-eerik-matero/id1507675257?i=1000581548029&l=fi)
 
 ## Contact
 
