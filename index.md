@@ -44,4 +44,6 @@ We update [The War On Ukraine](https://www.scribblemaps.com/maps/view/The-War-in
 ### [Emil Kastehelmi](https://twitter.com/emilkastehelmi/)
 ### [John Helin](https://twitter.com/J_JHelin)
 ### [Eerik Matero](https://twitter.com/EerikMatero)
+### [Sakke Sarjakoski](https://twitter.com/sakkesarjakoski)
+### [Pasi Paroinen](https://twitter.com/Inkvisiit)
 
