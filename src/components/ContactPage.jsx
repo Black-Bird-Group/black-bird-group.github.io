@@ -23,7 +23,7 @@ function ContactPage() {
         </p>
 
         <p className="text-lg mb-4">
-          Please contact us for business, cooperation and media inquiries at{" "}
+          Please contact us for cooperation and media inquiries at{" "}
           <a href="mailto:contact@blackbirdgroup.fi" className="text-blue-500">
             contact@blackbirdgroup.fi
           </a>
